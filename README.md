@@ -45,7 +45,6 @@ This project was realized with Ugo DEMY, a Data & AI Student of ESILV ingineerin
 ## Helpful Links
 
 * [WPF](https://openclassrooms.com/fr/courses/1293766-les-differents-types-dapplications-pouvant-etre-developpees-avec-le-c)
-* [WPF](https://openclassrooms.com/fr/courses/1293766-les-differents-types-dapplications-pouvant-etre-developpees-avec-le-c)
 
 
 - - -

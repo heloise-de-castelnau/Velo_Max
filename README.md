@@ -30,8 +30,8 @@ In this school project, we had to develop a database management for Mr Legrand, 
 
 This project uses :
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">|<img title="visual-studio" alt="visual-studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|
-|--|--|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="visual-studio" alt="visual-studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|
+|--|--|--|
 
 
 ## About the project
